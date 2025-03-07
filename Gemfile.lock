@@ -304,7 +304,6 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jemoji
 
 BUNDLED WITH
    2.5.22

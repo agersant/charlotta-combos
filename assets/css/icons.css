@@ -1,0 +1,22 @@
+embed {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    background-size: 30px 30px;
+}
+
+embed[light] {
+    background-image: url("/assets/images/light.png");
+}
+
+embed[medium] {
+    background-image: url("/assets/images/medium.png");
+}
+
+embed[heavy] {
+    background-image: url("/assets/images/heavy.png");
+}
+
+embed[unique] {
+    background-image: url("/assets/images/unique.png");
+}

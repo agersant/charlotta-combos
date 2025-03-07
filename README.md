@@ -1,3 +1,6 @@
 # Test
 
-:+1: :+1: :+1:
+<embed light>
+<embed medium>
+<embed heavy>
+<embed unique>
