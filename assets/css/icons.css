@@ -1,8 +1,9 @@
 embed {
     display: inline-block;
-    width: 30px;
-    height: 30px;
-    background-size: 30px 30px;
+    vertical-align: middle;
+    width: 28px;
+    height: 28px;
+    background-size: 28px;
 }
 
 embed[light] {
@@ -19,4 +20,60 @@ embed[heavy] {
 
 embed[unique] {
     background-image: url("/assets/images/unique.png");
+}
+
+embed[skill] {
+    background-image: url("/assets/images/skill.png");
+}
+
+embed[block] {
+    background-image: url("/assets/images/block.png");
+}
+
+embed[throw] {
+    background-image: url("/assets/images/throw.png");
+}
+
+embed[dash] {
+    background-image: url("/assets/images/dash.png");
+}
+
+embed[d1] {
+    background-image: url("/assets/images/1.png");
+}
+
+embed[d2] {
+    background-image: url("/assets/images/2.png");
+}
+
+embed[d3] {
+    background-image: url("/assets/images/3.png");
+}
+
+embed[d4] {
+    background-image: url("/assets/images/4.png");
+}
+
+embed[d5] {
+    background-image: url("/assets/images/5.png");
+}
+
+embed[d6] {
+    background-image: url("/assets/images/6.png");
+}
+
+embed[d7] {
+    background-image: url("/assets/images/7.png");
+}
+
+embed[d8] {
+    background-image: url("/assets/images/8.png");
+}
+
+embed[d9] {
+    background-image: url("/assets/images/9.png");
+}
+
+embed[d236] {
+    background-image: url("/assets/images/236.png");
 }
