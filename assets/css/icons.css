@@ -77,3 +77,8 @@ embed[d9] {
 embed[d236] {
     background-image: url("/assets/images/236.png");
 }
+
+embed[d214] {
+    background-image: url("/assets/images/236.png");
+    transform: scaleX(-1);
+}

@@ -15,8 +15,26 @@ body {
     margin: auto;
 }
 
+table {
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+th {
+    padding: 10px;
+    background-color: #2e3c5f;
+}
+
+td {
+    padding: 10px;
+    border: 1px solid #222731;
+}
+
 combo {
-    padding: 16px 24px;
+    border-radius: 4px;
+    display: inline-block;
+    margin: 0 8px;
+    padding: 12px 16px;
     font-weight: bold;
     background-color: #090e22;
 }
