@@ -1,0 +1,22 @@
+html {
+    background: #0E152E;
+    color: #FFFFFF;
+    font-family: sans-serif;
+}
+
+h1 {
+    padding-bottom: 20px;
+    border-bottom: 4px solid #2d76fe;
+}
+
+body {
+    width: 80%;
+    max-width: 1200px;
+    margin: auto;
+}
+
+combo {
+    padding: 16px 24px;
+    font-weight: bold;
+    background-color: #090e22;
+}

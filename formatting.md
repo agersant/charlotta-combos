@@ -14,4 +14,6 @@
 
 ## Example combo
 
+<combo>
 c<embed medium><embed medium><embed medium> > <embed heavy> Lumiel, f<embed medium> > <embed heavy> Ball
+</combo>

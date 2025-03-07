@@ -1,6 +1,6 @@
 embed {
     display: inline-block;
-    vertical-align: middle;
+    vertical-align: calc(-50% + 1px);
     width: 28px;
     height: 28px;
     background-size: 28px;
