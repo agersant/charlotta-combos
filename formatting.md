@@ -12,7 +12,9 @@
 <br/>
 <embed d236><embed d214>
 
-## Combos
+## Combo notation
 
 <combo>cMMM > H Lumiel, fM > H Ball</combo>
 <combo>fL > L Ball</combo>
+<combo>LMHUSTBD</combo>
+<combo>123456789</combo>
