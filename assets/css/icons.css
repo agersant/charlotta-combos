@@ -7,78 +7,78 @@ embed {
 }
 
 embed[light] {
-    background-image: url("/assets/images/light.png");
+    background-image: url("/assets/images/input/light.png");
 }
 
 embed[medium] {
-    background-image: url("/assets/images/medium.png");
+    background-image: url("/assets/images/input/medium.png");
 }
 
 embed[heavy] {
-    background-image: url("/assets/images/heavy.png");
+    background-image: url("/assets/images/input/heavy.png");
 }
 
 embed[unique] {
-    background-image: url("/assets/images/unique.png");
+    background-image: url("/assets/images/input/unique.png");
 }
 
 embed[skill] {
-    background-image: url("/assets/images/skill.png");
+    background-image: url("/assets/images/input/skill.png");
 }
 
 embed[block] {
-    background-image: url("/assets/images/block.png");
+    background-image: url("/assets/images/input/block.png");
 }
 
 embed[throw] {
-    background-image: url("/assets/images/throw.png");
+    background-image: url("/assets/images/input/throw.png");
 }
 
 embed[dash] {
-    background-image: url("/assets/images/dash.png");
+    background-image: url("/assets/images/input/dash.png");
 }
 
 embed[d1] {
-    background-image: url("/assets/images/1.png");
+    background-image: url("/assets/images/input/1.png");
 }
 
 embed[d2] {
-    background-image: url("/assets/images/2.png");
+    background-image: url("/assets/images/input/2.png");
 }
 
 embed[d3] {
-    background-image: url("/assets/images/3.png");
+    background-image: url("/assets/images/input/3.png");
 }
 
 embed[d4] {
-    background-image: url("/assets/images/4.png");
+    background-image: url("/assets/images/input/4.png");
 }
 
 embed[d5] {
-    background-image: url("/assets/images/5.png");
+    background-image: url("/assets/images/input/5.png");
 }
 
 embed[d6] {
-    background-image: url("/assets/images/6.png");
+    background-image: url("/assets/images/input/6.png");
 }
 
 embed[d7] {
-    background-image: url("/assets/images/7.png");
+    background-image: url("/assets/images/input/7.png");
 }
 
 embed[d8] {
-    background-image: url("/assets/images/8.png");
+    background-image: url("/assets/images/input/8.png");
 }
 
 embed[d9] {
-    background-image: url("/assets/images/9.png");
+    background-image: url("/assets/images/input/9.png");
 }
 
 embed[d236] {
-    background-image: url("/assets/images/236.png");
+    background-image: url("/assets/images/input/236.png");
 }
 
 embed[d214] {
-    background-image: url("/assets/images/236.png");
+    background-image: url("/assets/images/input/236.png");
     transform: scaleX(-1);
 }

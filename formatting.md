@@ -10,10 +10,9 @@
 <embed d4><embed d5><embed d6>
 <embed d1><embed d2><embed d3>
 <br/>
-<embed d236>
+<embed d236><embed d214>
 
-## Example combo
+## Combos
 
-<combo>
-c<embed medium><embed medium><embed medium> > <embed heavy> Lumiel, f<embed medium> > <embed heavy> Ball
-</combo>
+<combo>cMMM > H Lumiel, fM > H Ball</combo>
+<combo>fL > L Ball</combo>
