@@ -3,6 +3,17 @@ html {
     color: #FFFFFF;
     font-family: sans-serif;
     background: #020613;
+    line-height: 180%;
+}
+
+body {
+    width: 80%;
+    max-width: 1000px;
+    min-height: 100%;
+    margin: auto;
+    padding: 48px;
+    box-sizing: border-box;
+    background: #0E152E;
 }
 
 h1 {
@@ -10,14 +21,13 @@ h1 {
     border-bottom: 4px solid #2d76fe;
 }
 
-body {
-    width: 80%;
-    max-width: 1200px;
-    min-height: 100%;
-    margin: auto;
-    padding: 48px;
-    box-sizing: border-box;
-    background: #0E152E;
+h2 {
+    padding-top: 20px;
+}
+
+a {
+    color: #2d76fe;
+    font-weight: bold;
 }
 
 table {
