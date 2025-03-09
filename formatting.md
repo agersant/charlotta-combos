@@ -11,10 +11,10 @@
 
 ## Combo notation
 
-<combo>cMMM > H Lumiel, fM > H Ball</combo><br/>
-<combo>fL > L Ball</combo><br/>
-<combo>LMHUSTBD</combo><br/>
-<combo>123456789</combo><br/>
+<combo>cMMM > H Lumiel, fM > H Ball</combo>
+<combo>fL > L Ball</combo>
+<combo>LMHUSTBD</combo>
+<combo>123456789</combo>
 
 ## Video
 
