@@ -6,6 +6,10 @@ embed {
     background-size: 28px;
 }
 
+h2 embed {
+    vertical-align: -6px;
+}
+
 embed[light] {
     background-image: url("/assets/images/input/light.png");
 }

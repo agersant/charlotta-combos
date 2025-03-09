@@ -41,11 +41,16 @@ th {
 }
 
 td {
-    padding: 10px;
+    padding: 16px;
     border: 1px solid #222731;
 }
 
+video {
+    width: 100%;
+}
+
 combo {
+    white-space: nowrap;
     border-radius: 4px;
     display: inline-block;
     margin: 4px;
