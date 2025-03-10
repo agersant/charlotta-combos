@@ -20,7 +20,7 @@ const inputs = new Map([
 
 const shorthandRegexes = new Map();
 for (const shorthand of inputs.keys()) {
-    const regex = new RegExp(`${shorthand}(?![a-z]|P)`, "g"); // P to avoid turning DP into DashP
+    const regex = new RegExp(`(?<!R)${shorthand}(?![a-z]|P)`, "g"); // Look-behind to support RS, look-ahead to support DP
     shorthandRegexes.set(shorthand, regex);
 }
 
