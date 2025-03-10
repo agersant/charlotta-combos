@@ -41,9 +41,9 @@ Raging chain can be linked in to <combo>U Flip</combo> to continue the combo for
 
 ## Spending all the BP to end the round
 
-<combo>cMMM > H Lumiel, fM > RS > RC, cH > RS > RC, cH > RS > RC, cHH, H DP</combo>
+<combo>cMMM > H Lumiel, fM > RS > RC, cH > RS > RC, cH > RS > RC, cHH > H DP</combo>
 
-Things are almost the same with only 2 BPs: <combo>cMMM > H Lumiel, fM > RS > RC, cH > RS > RC, cHHH, H/U DP</combo>
+Things are almost the same with only 2 BPs: <combo>cMMM > H Lumiel, fM > RS > RC, cH > RS > RC, cHHH > H/U DP</combo>
 
 ## Crouching optimizations
 
