@@ -14,13 +14,6 @@ I hope this page can help other Charlotta players. It assumes you already know h
 - [Anti-air combos](anti-air.md)
 - [Common oki situations](oki.md)
 
-## Resources
-
-- 📚️ [Dustloop](https://www.dustloop.com/w/GBVSR/Charlotta)
-- ⏯️ [Replay theater](https://replaytheater.app/?game=gbvs&c1=Charlotta)
-- 💬 [Charlotta Discord](https://discord.gg/k9Dxx7d84w)
-- 🎙️ [Noble Strategy (matchup discussion podcast)](https://www.youtube.com/channel/UCYU9Ndw2qxSkMZNx4xsjdyQ)
-
 ## Combo notation
 
 Normals are prefixed with **c** or **f** to distinguish close and far versions.
@@ -37,3 +30,10 @@ Special moves use these informal names:
 **Ball**|<embed d6> + <embed skill> + <embed light>/<embed medium>/<embed heavy>/<embed unique>|[<embed d4>]<embed d6> + <embed light>/<embed medium>/<embed heavy>/<embed unique>
 **Lumiel**|<embed d4> + <embed skill> + <embed light>/<embed medium>/<embed heavy>/<embed unique>|<embed d214> + <embed light>/<embed medium>/<embed heavy>/<embed unique>
 **Flip**|<embed d2> + <embed skill> + <embed light>/<embed medium>/<embed heavy>/<embed unique>|<embed d2><embed d2> + <embed light>/<embed medium>/<embed heavy>/<embed unique>
+
+## Resources
+
+- 📚️ [Dustloop](https://www.dustloop.com/w/GBVSR/Charlotta)
+- ⏯️ [Replay theater](https://replaytheater.app/?game=gbvs&c1=Charlotta)
+- 💬 [Charlotta Discord](https://discord.gg/k9Dxx7d84w)
+- 🎙️ [Noble Strategy (matchup discussion podcast)](https://www.youtube.com/channel/UCYU9Ndw2qxSkMZNx4xsjdyQ)
