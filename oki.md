@@ -37,9 +37,11 @@ Super jump becomes a safe jump. You can hold <embed d6> throughout the cinematic
 
 <video src="/assets/videos/oki-SBA-safe-super-jump.mp4" controls="controls"></video>
 
-Regular jump followed by <combo>L Flip</combo> is a good throw bait. Using a jump normal will whiff and can add to the confusion.
+Regular jump followed by <combo>L Flip</combo> is a good throw bait.
 
 <video src="/assets/videos/oki-SBA-fake-jump.mp4" controls="controls"></video>
+
+{% include bubble.html content="Using a jump normal will whiff and adds to the confusion!" %}
 
 ## After <embed unique> DP
 
@@ -63,6 +65,8 @@ Whiffing <combo>M DP</combo> leaves you +1 and in range to hit <combo>fM</combo>
 
 <video src="/assets/videos/oki-flip-grab-fM.mp4" controls="controls"></video>
 
+{% include bubble.html content="This looks similar to a dropped combo." %}
+
 ## After <embed heavy> Ball
 
 You can manually time a <combo>66H</combo>, only if the opponent does not backroll.
@@ -74,3 +78,5 @@ You can manually time a <combo>66H</combo>, only if the opponent does not backro
 <p><combo>M Ball</combo> works as its own oki, which is very funny but punishable (-10 on block).</p>
 
 <video src="/assets/videos/oki-ball-ball.mp4" controls="controls"></video>
+
+{% include bubble.html content="You may regret doing this." %}

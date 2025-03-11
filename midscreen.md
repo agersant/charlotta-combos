@@ -6,7 +6,7 @@
 
 <video src="/assets/videos/midscreen-bnb.mp4" controls="controls"></video>
 
-_<center>Starter can be any autocombo, not just <embed medium>.</center>_
+{% include bubble.html content="Starter can be any autocombo, not just <embed medium>!" %}
 
 ## Spending meter for corner carry
 
@@ -52,15 +52,16 @@ You can route into SBA, but it's not very good:
 <combo>cMMM > H Lumiel, fM > SBA</combo>
 
 <video src="/assets/videos/midscreen-SBA.mp4" controls="controls"></video>
-_<center>🫤 Not the best use of 100 meter</center>_
 
-However, crouching optimizations (details below) let you get the best of both worlds:
+{% include bubble.html content="Not the best use of 100 meter!" %}
+
+Crouching optimizations detailed below let you get the best of both worlds:
 
 <combo>cMMM > H Lumiel, 66L, cMMM > SBA</combo>
 
 <video src="/assets/videos/midscreen-crouching-SBA.mp4" controls="controls"></video>
 
-## Spending all the BP to end the round
+## Spending all BP to end the round
 
 <combo>cMMM > H Lumiel, fM > RS > RC, cH > RS > RC, cH > RS > RC, cHH > H DP</combo>
 
