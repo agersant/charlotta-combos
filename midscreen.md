@@ -20,7 +20,7 @@ If the opponent is getting near the corner, you can end with <embed heavy> Ball 
 
 ## Picking up wall bounces
 
-When <combo>H Ball</combo> wall-bounces the opponent, various normals can be used to finish the combo depending on distance:
+When <combo>H Ball</combo> wall-bounces the opponent, various normals can be used to extend the combo:
 
 |--|--|
 |<combo>2H > H Flip grab</combo>|<video src="/assets/videos/midscreen-bounce-2H.mp4" controls="controls"></video>|
@@ -39,9 +39,7 @@ Holding <embed d4> for a few frames after <combo>L Ball</combo> lets you stay on
 
 <video src="/assets/videos/midscreen-no-side-swap.mp4" controls="controls"></video>
 
-Linking Raging Chain into <combo>U Flip</combo> extends the combo for only 25 meter:
-
-<combo>cMMM > H Lumiel, fM > RS > RC, U Flip, cMM > H Ball</combo>
+Linking Raging Chain into <combo>U Flip</combo> extends the combo for only 25 meter: <combo>cMMM > H Lumiel, fM > RS > RC, U Flip, cMM > H Ball</combo>
 
 <video src="/assets/videos/midscreen-22U-refund.mp4" controls="controls"></video>
 
