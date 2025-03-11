@@ -22,6 +22,8 @@
 
 <video src="/assets/videos/oki-5U-safe-jump.mp4"></video>
 
+{% include bubble.html content="Peanut gallery quokka makes comments!" %}
+
 ## Input in title: <embed unique/> Ball
 
 <p><combo>U Ball</combo> is combo at beginning of line.</p>
