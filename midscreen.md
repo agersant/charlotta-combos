@@ -46,7 +46,7 @@ Linking Raging Chain into <combo>U Flip</combo> extends the combo for only 25 me
 ## SBA routes
 
 You can route into SBA, but it's not very good:
-- Damage output is lower than the 50-meter combos above using 22U and a wall bounce
+- Damage output is lower than the 50-meter combos above using <combo>U Flip</combo> and a wall bounce
 - Opponent does not lose a BP unless you do <combo>cMMM > SBA</combo> (even less damage!)
 
 <combo>cMMM > H Lumiel, fM > SBA</combo>
