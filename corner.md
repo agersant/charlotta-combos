@@ -26,7 +26,7 @@ Keeping the core combo the same until <combo>H Ball</combo>, here are other usef
 |<combo>cMMM, L Flip grab</combo>|_<center>⚠️ This loses to mashing!<br/>🕹️ This is a link, not a cancel.</center>_|
 |<combo>cMMM, RS</combo>|_<center>🕹️ This is a link, not a cancel.</center>_|
 
-## Crouching optimization
+## Crouching optimizations
 
 With 2U?
 
