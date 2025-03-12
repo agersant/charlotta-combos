@@ -8,10 +8,11 @@ html {
 
 body {
     width: 80%;
-    max-width: 1000px;
+    max-width: 1200px;
     min-height: 100%;
     margin: auto;
-    padding: 48px;
+    padding: 48px 100px;
+    font-size: 20px;
     box-sizing: border-box;
     background: #0E152E;
 }
@@ -62,7 +63,7 @@ combo {
 }
 
 .bubble {
-    translate: 132px 0;
+    translate: 174px 0;
     display: flex;
     justify-content: flex-end;
     align-items: flex-end;
