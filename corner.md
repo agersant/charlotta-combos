@@ -47,4 +47,5 @@ With cHHH
 ## <embed unique> Ball starter
 
 <combo>U Ball, U Ball, U Ball, 2H > H Flip grab</combo>
+<combo>U Ball, 2U > H Ball, cH > RS, cH > SBA</combo>
 <combo>U Ball, U Flip, U Ball, cH > RS, H Ball, cH > RS > RC</combo>
