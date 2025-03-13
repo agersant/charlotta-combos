@@ -4,7 +4,7 @@
 
 This combo does good damage, ends with a safe-dive and keeps your flip off cooldown:
 
-<combo>cMMM > H Lumiel, fM > H Ball, cMMM > L DP, cM > L Flip dive [reset]</combo>
+<combo>cMMM > H Lumiel, fM > H Ball, cMMM > L DP, cM > L Flip dive</combo>
 
 <video src="/assets/videos/corner-bnb.mp4" controls="controls"></video>
 
@@ -46,9 +46,13 @@ If you notice early enough that SBA will be available, you can get slightly more
 
 ## Flip grab starter
 
-<combo>L Flip grab, cM > H Lumiel, 2U > H Ball, cHH > L DP, L Flip dive [reset]</combo>
+End with a safe dive:
+
+<combo>L Flip grab, cM > H Lumiel, 2U > H Ball, cHH > L DP, L Flip dive</combo>
 
 <video src="/assets/videos/corner-grab-starter-safe-dive.mp4" controls="controls"></video>
+
+End with SBA:
 
 <combo>L Flip grab, cM > H Lumiel, 2U > H Ball, cH > SBA</combo>
 
@@ -76,7 +80,7 @@ Without the Raging Strike or SBA, this can be trimmed down to:
 
 End with a safe dive:
 
-<combo>U Ball, 2U > H Lumiel, cHH > L DP, cM > L Flip dive [reset]</combo>
+<combo>U Ball, 2U > H Lumiel, cHH > L DP, cM > L Flip dive</combo>
 
 <video src="/assets/videos/corner-UBall-safe-dive.mp4" controls="controls"></video>
 
@@ -95,7 +99,7 @@ When confirming any far normal near the corner, cancelling into <combo>H Ball</c
 <combo>[starter] > H Ball, cM > H Lumiel, [ender]</combo>
 
 |--|--|
-|<combo>cHHH > L DP, L Flip dive [reset]</combo>|<video src="/assets/videos/corner-fL-starter-safe-dive.mp4" controls="controls"></video>|
+|<combo>cHHH > L DP, L Flip dive</combo>|<video src="/assets/videos/corner-fL-starter-safe-dive.mp4" controls="controls"></video>|
 |<combo>cHHH > H Flip low</combo>|<video src="/assets/videos/corner-fM-starter-low.mp4" controls="controls"></video>|
 |<combo>cHH > L Flip overhead</combo>|<video src="/assets/videos/corner-fM-starter-overhead.mp4" controls="controls"></video>|
 |<combo>cH > RS, CHH > SBA</combo>|<video src="/assets/videos/corner-fL-starter-SBA.mp4" controls="controls"></video>|
