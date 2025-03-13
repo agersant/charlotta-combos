@@ -1,8 +1,10 @@
 ## Introduction
 
-These pages lists my Charlotta gameplan, the goal is not to be exhaustive. Combos and setups listed have a strong bias towards ease of execution and reliability.
+Hi, I'm agersant (aka NobleBadger) and this website documents the gameplan I use when playing Charlotta.
 
-In the grand scheme of things I'm also not that good at the game so take all this with a grain of salt. I just like having notes, and making little websites is fun.
+The information here is not meant to be exhaustive. The combos and setups listed have a strong bias towards ease of execution and reliability. I try to avoid combos that require evaluating juggle height, making decisions early in the combo, or difficult inputs.
+
+In the grand scheme of things, I'm also not that good at the game so take all this with a grain of salt. I just like having notes, and making little websites is fun.
 
 I hope this page can help other Charlotta players. It assumes you already know how the game works in general.
 
@@ -36,4 +38,3 @@ Special moves use these informal names:
 - 📚️ [Dustloop](https://www.dustloop.com/w/GBVSR/Charlotta)
 - ⏯️ [Replay theater](https://replaytheater.app/?game=gbvs&c1=Charlotta)
 - 💬 [Charlotta Discord](https://discord.gg/k9Dxx7d84w)
-- 🎙️ [Noble Strategy (matchup discussion podcast)](https://www.youtube.com/channel/UCYU9Ndw2qxSkMZNx4xsjdyQ)
