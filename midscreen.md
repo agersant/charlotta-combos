@@ -94,6 +94,3 @@ Spending a BP gives access to much better damage and potential wall bounces:
 <combo>fM > RS > RC, cHH > H Lumiel, U Ball, cH > H DP</combo>
 
 <video src="/assets/videos/midscreen-fM-starter-UBall.mp4" controls="controls"></video>
-
-
-
