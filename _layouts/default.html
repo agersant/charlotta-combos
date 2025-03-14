@@ -11,6 +11,9 @@
 </head>
 
 <body>
+    {% if page.url != "/" %}
+    <a href="/">&lt; Back to home</a>
+    {% endif %}
     {{ content }}
 </body>
 
