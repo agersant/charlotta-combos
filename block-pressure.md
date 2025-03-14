@@ -18,7 +18,7 @@ Cancelling into <combo>H Lumiel</combo> leaves no gap and is +4 on block. On blo
 
 <video src="/assets/videos/pressure-autocombo-HLumiel.mp4" controls="controls"></video>
 
-When starting an autocombo specifically with c<img class="icon" medium>, the advance leaves you close enough to make <combo>cMMT</combo> a threat. This is loses to mashing or simply walking back.
+When starting an autocombo specifically with c<img class="icon" medium>, the advance leaves you close enough to make <combo>cMMT</combo> a threat. This loses to mashing or simply walking back.
 
 <video src="/assets/videos/pressure-autocombo-throw.mp4" controls="controls"></video>
 
