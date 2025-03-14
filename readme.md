@@ -10,10 +10,10 @@ I hope this page can help other Charlotta players. It assumes you already know h
 
 ## Table of content
 
-- [Block pressure](block-pressure.md)
 - [Midscreen combos](midscreen.md)
 - [Corner combos](corner.md)
 - [Anti-air combos](anti-air.md)
+- [Block pressure](block-pressure.md)
 - [Common oki situations](oki.md)
 
 ## Combo notation
