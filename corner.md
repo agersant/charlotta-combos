@@ -8,7 +8,7 @@ This combo does good damage, ends with a safe-dive and keeps your flip off coold
 
 <video src="/assets/videos/corner-bnb.mp4" controls="controls"></video>
 
-{% include bubble.html content="Starter can be any autocombo, not just <embed medium>!" %}
+{% include bubble.html content="Starter can be any autocombo, not just <img class='icon' medium>!" %}
 
 ## Reset enders
 
@@ -27,7 +27,7 @@ Against crouching opponents, the <combo>H Lumiel, fM</combo> link can be replace
 
 <video src="/assets/videos/corner-crouching.mp4" controls="controls"></video>
 
-{% include bubble.html content="c<embed medium><embed medium><embed medium> also works and requires less precise timing." %}
+{% include bubble.html content="c<img class='icon' medium><img class='icon' medium><img class='icon' medium> also works and requires less precise timing." %}
 
 
 ## SBA enders
@@ -58,9 +58,9 @@ End with SBA:
 
 <video src="/assets/videos/corner-grab-starter-SBA.mp4" controls="controls"></video>
 
-{% include bubble.html content="Starter can be any flip grab, not just <embed light>!" %}
+{% include bubble.html content="Starter can be any flip grab, not just <img class='icon' light>!" %}
 
-## <embed heavy> Flip low starter
+## <img class="icon" heavy> Flip low starter
 
 The flip grab combos above also work with a <combo>H Flip low starter</combo> (minus the safe-dive reset due to cooldowns).
 
@@ -76,7 +76,7 @@ Without the Raging Strike or SBA, this can be trimmed down to:
 
 <video src="/assets/videos/corner-low-starter-DP.mp4" controls="controls"></video>
 
-## <embed unique> Ball starter
+## <img class="icon" unique> Ball starter
 
 End with a safe dive:
 
@@ -90,7 +90,7 @@ Or spend meter for more damage:
 
 <video src="/assets/videos/corner-UBall-DP.mp4" controls="controls"></video>
 
-{% include bubble.html content="There are many other <embed unique> Ball routes." %}
+{% include bubble.html content="There are many other <img class='icon' unique> Ball routes." %}
 
 ## Far normal starters
 

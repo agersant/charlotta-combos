@@ -12,13 +12,13 @@ After forward-throw, <combo>M Flip dive</combo> works like a safe jump.
 
 <video src="/assets/videos/oki-throw-safe-dive.mp4" controls="controls"></video>
 
-In the corner, you can simply hold <embed d9> to get a safe jump.
+In the corner, you can simply hold <img class="icon" d9> to get a safe jump.
 
 <video src="/assets/videos/oki-throw-safe-jump.mp4" controls="controls"></video>
 
 ## After back throw
 
-Auto-timed safe jump simply holding <embed d9> during the throw animation.
+Auto-timed safe jump simply holding <img class="icon" d9> during the throw animation.
 
 <video src="/assets/videos/oki-back-throw-safe-jump.mp4" controls="controls"></video>
 
@@ -33,7 +33,7 @@ SBA has a number of oki options that work anywhere:
 
 ## After SBA in the corner
 
-Super jump becomes a safe jump. You can hold <embed d6> throughout the cinematic and tap <embed d2><embed d8> after Charlotta lands.
+Super jump becomes a safe jump. You can hold <img class="icon" d6> throughout the cinematic and tap <img class="icon" d2><img class="icon" d8> after Charlotta lands.
 
 <video src="/assets/videos/oki-SBA-safe-super-jump.mp4" controls="controls"></video>
 
@@ -43,7 +43,7 @@ Regular jump followed by <combo>L Flip</combo> is a good throw bait.
 
 {% include bubble.html content="Using a jump normal will whiff and adds to the confusion!" %}
 
-## After <embed unique> DP
+## After <img class="icon" unique> DP
 
 When hitting a **grounded** opponent with <combo>U DP</combo>, you have access to safe jump.
 
@@ -53,7 +53,7 @@ When hitting a **grounded** opponent with <combo>U DP</combo>, you have access t
 
 <video src="/assets/videos/oki-UDP-safe-dive.mp4" controls="controls"></video>
 
-## After <embed heavy> Flip grab
+## After <img class="icon" heavy> Flip grab
 
 Flip grab on grounded opponents only gives access to combos in the corner. Here are midscreen oki setups.
 
@@ -67,13 +67,13 @@ Whiffing <combo>M DP</combo> leaves you +1 and in range to hit <combo>fM</combo>
 
 {% include bubble.html content="This looks similar to a dropped combo." %}
 
-## After <embed heavy> Ball
+## After <img class="icon" heavy> Ball
 
 You can manually time a <combo>66H</combo>, only if the opponent does not backroll.
 
 <video src="/assets/videos/oki-ball-66H.mp4" controls="controls"></video>
 
-## After <embed medium> Ball
+## After <img class="icon" medium> Ball
 
 <p><combo>M Ball</combo> works as its own oki, which is very funny but punishable (-10 on block).</p>
 

@@ -1,4 +1,4 @@
-embed {
+img.icon {
     display: inline-block;
     vertical-align: -7px;
     width: 28px;
@@ -6,83 +6,83 @@ embed {
     background-size: 28px;
 }
 
-h2 embed {
+h2 img.icon {
     vertical-align: -5px;
 }
 
-embed[light] {
-    background-image: url("/assets/images/input/light.png");
+img[light] {
+    content: url("/assets/images/input/light.png");
 }
 
-embed[medium] {
-    background-image: url("/assets/images/input/medium.png");
+img[medium] {
+    content: url("/assets/images/input/medium.png");
 }
 
-embed[heavy] {
-    background-image: url("/assets/images/input/heavy.png");
+img[heavy] {
+    content: url("/assets/images/input/heavy.png");
 }
 
-embed[unique] {
-    background-image: url("/assets/images/input/unique.png");
+img[unique] {
+    content: url("/assets/images/input/unique.png");
 }
 
-embed[skill] {
-    background-image: url("/assets/images/input/skill.png");
+img[skill] {
+    content: url("/assets/images/input/skill.png");
 }
 
-embed[block] {
-    background-image: url("/assets/images/input/block.png");
+img[block] {
+    content: url("/assets/images/input/block.png");
 }
 
-embed[throw] {
-    background-image: url("/assets/images/input/throw.png");
+img[throw] {
+    content: url("/assets/images/input/throw.png");
 }
 
-embed[dash] {
-    background-image: url("/assets/images/input/dash.png");
+img[dash] {
+    content: url("/assets/images/input/dash.png");
 }
 
-embed[d1] {
-    background-image: url("/assets/images/input/1.png");
+img[d1] {
+    content: url("/assets/images/input/1.png");
 }
 
-embed[d2] {
-    background-image: url("/assets/images/input/2.png");
+img[d2] {
+    content: url("/assets/images/input/2.png");
 }
 
-embed[d3] {
-    background-image: url("/assets/images/input/3.png");
+img[d3] {
+    content: url("/assets/images/input/3.png");
 }
 
-embed[d4] {
-    background-image: url("/assets/images/input/4.png");
+img[d4] {
+    content: url("/assets/images/input/4.png");
 }
 
-embed[d5] {
-    background-image: url("/assets/images/input/5.png");
+img[d5] {
+    content: url("/assets/images/input/5.png");
 }
 
-embed[d6] {
-    background-image: url("/assets/images/input/6.png");
+img[d6] {
+    content: url("/assets/images/input/6.png");
 }
 
-embed[d7] {
-    background-image: url("/assets/images/input/7.png");
+img[d7] {
+    content: url("/assets/images/input/7.png");
 }
 
-embed[d8] {
-    background-image: url("/assets/images/input/8.png");
+img[d8] {
+    content: url("/assets/images/input/8.png");
 }
 
-embed[d9] {
-    background-image: url("/assets/images/input/9.png");
+img[d9] {
+    content: url("/assets/images/input/9.png");
 }
 
-embed[d236] {
-    background-image: url("/assets/images/input/236.png");
+img[d236] {
+    content: url("/assets/images/input/236.png");
 }
 
-embed[d214] {
-    background-image: url("/assets/images/input/236.png");
+img[d214] {
+    content: url("/assets/images/input/236.png");
     transform: scaleX(-1);
 }

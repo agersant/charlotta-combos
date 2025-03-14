@@ -29,7 +29,7 @@ for (const combo of combos) {
     let comboHTML = combo.innerHTML;
     for (const [shorthand, embed] of inputs) {
         const regex = shorthandRegexes.get(shorthand);
-        comboHTML = comboHTML.replaceAll(regex, `<embed ${embed}>`);
+        comboHTML = comboHTML.replaceAll(regex, `<img class="icon" ${embed}>`);
     }
     combo.innerHTML = comboHTML;
 }

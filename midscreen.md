@@ -6,7 +6,7 @@
 
 <video src="/assets/videos/midscreen-bnb.mp4" controls="controls"></video>
 
-{% include bubble.html content="Starter can be any autocombo, not just <embed medium>!" %}
+{% include bubble.html content="Starter can be any autocombo, not just <img class='icon' medium>!" %}
 
 ## Spending meter for corner carry
 
@@ -16,7 +16,7 @@
 
 This has good oki, you can chase with <combo>L Ball</combo> and continue your offense.
 
-If the opponent is getting near the corner, you can end with <embed heavy> Ball instead of <embed light> DP to cause a wall bounce.
+If the opponent is getting near the corner, you can end with <img class="icon" heavy> Ball instead of <img class="icon" light> DP to cause a wall bounce.
 
 ## Picking up wall bounces
 
@@ -35,7 +35,7 @@ This combo goes under the opponent for a potential reset:
 
 <video src="/assets/videos/midscreen-side-swap.mp4" controls="controls"></video>
 
-Holding <embed d4> for a few frames after <combo>L Ball</combo> lets you stay on the same side to mix things up:
+Holding <img class="icon" d4> for a few frames after <combo>L Ball</combo> lets you stay on the same side to mix things up:
 
 <video src="/assets/videos/midscreen-no-side-swap.mp4" controls="controls"></video>
 
@@ -81,7 +81,7 @@ Against crouching opponents, the <combo>H Lumiel, fM</combo> link can be replace
 
 ## Far normal starters
 
-When punishing a move with a far normal, or hit-confirming a pressure sequence that contains f<embed light>, you can get a simple knockdown with <combo>H Ball</combo>:
+When punishing a move with a far normal, or hit-confirming a pressure sequence that contains f<img class="icon" light>, you can get a simple knockdown with <combo>H Ball</combo>:
 
 <video src="/assets/videos/midscreen-fL-starter-HBall.mp4" controls="controls"></video>
 

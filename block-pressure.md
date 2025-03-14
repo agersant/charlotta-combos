@@ -18,13 +18,13 @@ Cancelling into <combo>H Lumiel</combo> leaves no gap and is +4 on block. On blo
 
 <video src="/assets/videos/pressure-autocombo-HLumiel.mp4" controls="controls"></video>
 
-When starting an autocombo specifically with c<embed medium>, the advance leaves you close enough to make <combo>cMMT</combo> a threat. This is loses to mashing or simply walking back.
+When starting an autocombo specifically with c<img class="icon" medium>, the advance leaves you close enough to make <combo>cMMT</combo> a threat. This is loses to mashing or simply walking back.
 
 <video src="/assets/videos/pressure-autocombo-throw.mp4" controls="controls"></video>
 
-## With c<embed light>
+## With c<img class="icon" light>
 
-Having the opponent block c<embed light> gives many good options that aren't very Charlotta specific:
+Having the opponent block c<img class="icon" light> gives many good options that aren't very Charlotta specific:
 
 |--|--|
 |<combo>cL, cL</combo>|<video src="/assets/videos/pressure-cL-cL.mp4" controls="controls"></video>_<center>Can also microwalk in-between</center>_|
@@ -32,9 +32,9 @@ Having the opponent block c<embed light> gives many good options that aren't ver
 |<combo>cL, 2L, fL</combo>|<video src="/assets/videos/pressure-cL-mixed.mp4" controls="controls"></video>|
 |<combo>cL, 6, throw</combo>|<video src="/assets/videos/pressure-cL-throw.mp4" controls="controls"></video>|
 
-## With <embed d2><embed light>
+## With <img class="icon" d2><img class="icon" light>
 
-<p><combo>2L</combo> can be cancelled into itself or into f<embed light>:</p>
+<p><combo>2L</combo> can be cancelled into itself or into f<img class="icon" light>:</p>
 
 <video src="/assets/videos/pressure-2L-fL.mp4" controls="controls"></video>
 
@@ -44,7 +44,7 @@ Having the opponent block c<embed light> gives many good options that aren't ver
 
 <video src="/assets/videos/pressure-2L-throw.mp4" controls="controls"></video>
  
-## With f<embed light>
+## With f<img class="icon" light>
 
 <p><combo>fL</combo> is +1 on block and often in range to connect <combo>fM/2U</combo>:</p>
 

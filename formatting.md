@@ -2,12 +2,12 @@
 
 ## Input icons
 
-<embed light><embed medium><embed heavy><embed unique>
-<embed skill><embed throw><embed block><embed dash>
-<embed d7><embed d8><embed d9>
-<embed d4><embed d5><embed d6>
-<embed d1><embed d2><embed d3>
-<embed d236><embed d214>
+<img class="icon" light><img class="icon" medium><img class="icon" heavy><img class="icon" unique>
+<img class="icon" skill><img class="icon" throw><img class="icon" block><img class="icon" dash>
+<img class="icon" d7><img class="icon" d8><img class="icon" d9>
+<img class="icon" d4><img class="icon" d5><img class="icon" d6>
+<img class="icon" d1><img class="icon" d2><img class="icon" d3>
+<img class="icon" d236><img class="icon" d214>
 
 ## Combo notation
 
@@ -22,8 +22,8 @@
 
 <video src="/assets/videos/oki-5U-safe-jump.mp4"></video>
 
-{% include bubble.html content="Peanut gallery quokka makes comments!" %}
+{% include bubble.html content="Peanut gallery quokka makes <img class='icon' unique> comments!" %}
 
-## Input in title: <embed unique/> Ball
+## Input in title: <img class="icon" unique> Ball
 
 <p><combo>U Ball</combo> is combo at beginning of line.</p>

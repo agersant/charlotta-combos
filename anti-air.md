@@ -1,12 +1,12 @@
 # Anti-air combos
 
-## Universal <embed d2/><embed heavy/> starter 
+## Universal <img class="icon" d2/><img class="icon" heavy/> starter 
 
 <combo>2H > H Flip grab</combo>
 
 <video src="/assets/videos/anti-air-basic.mp4" controls="controls"></video>
 
-## Counter-hit <embed d2/><embed heavy/> starter 
+## Counter-hit <img class="icon" d2/><img class="icon" heavy/> starter 
 
 On counter-hit, the low flip follow-up gives a longer combo and a safe-jab setup:
 
@@ -14,7 +14,7 @@ On counter-hit, the low flip follow-up gives a longer combo and a safe-jab setup
 
 <video src="/assets/videos/anti-air-counter-hit.mp4" controls="controls"></video>
 
-{% include bubble.html content="Counter-hit combos can use <embed light> Flip too." %}
+{% include bubble.html content="Counter-hit combos can use <img class='icon' light> Flip too." %}
 
 ## Spending meter
 

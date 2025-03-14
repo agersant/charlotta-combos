@@ -28,10 +28,10 @@ Special moves use these informal names:
 
 | Name | Simple Input | Technical Input |
 | ---- | ------------ | --------------- |
-**DP**|<embed skill> + <embed light>/<embed medium>/<embed heavy>/<embed unique>|[<embed d2>]<embed d8> + <embed light>/<embed medium>/<embed heavy>/<embed unique>|
-**Ball**|<embed d6> + <embed skill> + <embed light>/<embed medium>/<embed heavy>/<embed unique>|[<embed d4>]<embed d6> + <embed light>/<embed medium>/<embed heavy>/<embed unique>
-**Lumiel**|<embed d4> + <embed skill> + <embed light>/<embed medium>/<embed heavy>/<embed unique>|<embed d214> + <embed light>/<embed medium>/<embed heavy>/<embed unique>
-**Flip**|<embed d2> + <embed skill> + <embed light>/<embed medium>/<embed heavy>/<embed unique>|<embed d2><embed d2> + <embed light>/<embed medium>/<embed heavy>/<embed unique>
+**DP**|<img class="icon" skill> + <img class="icon" light>/<img class="icon" medium>/<img class="icon" heavy>/<img class="icon" unique>|[<img class="icon" d2>]<img class="icon" d8> + <img class="icon" light>/<img class="icon" medium>/<img class="icon" heavy>/<img class="icon" unique>|
+**Ball**|<img class="icon" d6> + <img class="icon" skill> + <img class="icon" light>/<img class="icon" medium>/<img class="icon" heavy>/<img class="icon" unique>|[<img class="icon" d4>]<img class="icon" d6> + <img class="icon" light>/<img class="icon" medium>/<img class="icon" heavy>/<img class="icon" unique>
+**Lumiel**|<img class="icon" d4> + <img class="icon" skill> + <img class="icon" light>/<img class="icon" medium>/<img class="icon" heavy>/<img class="icon" unique>|<img class="icon" d214> + <img class="icon" light>/<img class="icon" medium>/<img class="icon" heavy>/<img class="icon" unique>
+**Flip**|<img class="icon" d2> + <img class="icon" skill> + <img class="icon" light>/<img class="icon" medium>/<img class="icon" heavy>/<img class="icon" unique>|<img class="icon" d2><img class="icon" d2> + <img class="icon" light>/<img class="icon" medium>/<img class="icon" heavy>/<img class="icon" unique>
 
 ## Resources
 
