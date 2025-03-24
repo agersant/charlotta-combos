@@ -1,3 +1,7 @@
+---
+lang: pt-br
+---
+
 # Situações de Oki comuns
 
 ## Após parry

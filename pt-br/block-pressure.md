@@ -1,3 +1,7 @@
+---
+lang: pt-br
+---
+
 # Pressão na ofensiva
 
 ## Com autocombo

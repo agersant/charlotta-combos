@@ -1,3 +1,7 @@
+---
+lang: pt-br
+---
+
 ## Introdução
 
 Olá, me chamo agersant (também conhecido como NobleBadger) e esse website documenta o plano de jogo que eu uso quando jogo de Charlotta.

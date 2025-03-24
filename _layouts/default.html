@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html lang="{{ page.lang }}">
 
 <head>
     <meta charset="utf-8">
@@ -11,9 +11,11 @@
 </head>
 
 <body>
-    {% unless page.url contains "home" %}
+    {% if page.url contains "home" %}
+    <a href="/en-us/home">English</a> | <a href="/pt-br/home">Português</a>
+    {% else %}
     <a href="./home">&lt; Back to home</a>
-    {% endunless %}
+    {% endif %}
     {{ content }}
 </body>
 

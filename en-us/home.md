@@ -1,4 +1,5 @@
 ---
+lang: en-us
 redirect_from:
   - /
 ---

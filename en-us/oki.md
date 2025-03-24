@@ -1,3 +1,7 @@
+---
+lang: en-us
+---
+
 # Common oki situations
 
 ## After parry

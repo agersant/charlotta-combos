@@ -1,3 +1,7 @@
+---
+lang: pt-br
+---
+
 # Combos de Canto da tela
 
 ## Pão com Manteiga

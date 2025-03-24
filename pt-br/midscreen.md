@@ -1,3 +1,7 @@
+---
+lang: pt-br
+---
+
 # Combos de Meio de Tela
 
 ## Pão com Manteiga
