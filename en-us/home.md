@@ -1,3 +1,8 @@
+---
+redirect_from:
+  - /
+---
+
 ## Introduction
 
 Hi, I'm agersant (aka NobleBadger) and this website documents the gameplan I use when playing Charlotta.
@@ -10,11 +15,11 @@ I hope this page can help other Charlotta players. It assumes you already know h
 
 ## Table of content
 
-- [Midscreen combos](midscreen.md)
-- [Corner combos](corner.md)
-- [Anti-air combos](anti-air.md)
-- [Block pressure](block-pressure.md)
-- [Common oki situations](oki.md)
+- [Midscreen combos](./midscreen)
+- [Corner combos](./corner)
+- [Anti-air combos](./anti-air)
+- [Block pressure](./block-pressure)
+- [Common oki situations](./oki)
 
 ## Combo notation
 

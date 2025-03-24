@@ -11,9 +11,9 @@
 </head>
 
 <body>
-    {% if page.url != "/" %}
-    <a href="/">&lt; Back to home</a>
-    {% endif %}
+    {% unless page.url contains "home" %}
+    <a href="./home">&lt; Back to home</a>
+    {% endunless %}
     {{ content }}
 </body>
 
