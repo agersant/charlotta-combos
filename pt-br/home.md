@@ -12,6 +12,8 @@ Apesar de tudo, eu também não sou tão bom no jogo então leve isso tudo com u
 
 Eu espero que essa página possa ajudar outras Charlottas. Essa página assume que você já saiba como o jogo funciona de maneira geral.
 
+*Tradução ptbr: Tunico.*
+
 ## Tabela de Conteúdos
 
 - [Combos de meio de tela](./midscreen)
@@ -42,5 +44,3 @@ Ataques especiais usam esses nomes informais:
 - 📚️ [Dustloop](https://www.dustloop.com/w/GBVSR/Charlotta)
 - ⏯️ [Replay theater](https://replaytheater.app/?game=gbvs&c1=Charlotta)
 - 💬 [Charlotta Discord](https://discord.gg/k9Dxx7d84w)
-
-Tradução ptbr: Tunico.
