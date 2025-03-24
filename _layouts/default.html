@@ -14,7 +14,11 @@
     {% if page.url contains "home" %}
     <a href="/en-us/home">English</a> | <a href="/pt-br/home">Português</a>
     {% else %}
+    {% if page.lang == "en-us" %}
     <a href="./home">&lt; Back to home</a>
+    {% elsif page.lang == "pt-br" %}
+    <a href="./home">&lt; Página inicial</a>
+    {% endif %}
     {% endif %}
     {{ content }}
 </body>
