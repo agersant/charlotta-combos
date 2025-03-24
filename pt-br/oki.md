@@ -57,7 +57,7 @@ Quando acertar um oponente **em pé** com <combo>U DP</combo>, você ganha acess
 
 <video src="/assets/videos/oki-UDP-safe-dive.mp4" controls="controls"></video>
 
-## Após<img class="icon" heavy> Flip Agarrão
+## Após <img class="icon" heavy> Flip Agarrão
 
  Flip agarrão em oponentes em pé só dá acesso a combos no canto da tela. Aqui estão setups de Oki no meio da tela.
 
