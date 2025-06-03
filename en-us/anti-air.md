@@ -39,3 +39,19 @@ If the opponent is below half-HP, you can finish them off by dumping all your BP
 <combo>2H > H Flip low, cH > RS > RC, cH > RS > RC, cH > RS > RC, cH</combo>
 
 <video src="/assets/videos/anti-air-3-BP.mp4" controls="controls"></video>
+
+## Corner variants
+
+Opponents often try to leave the corner by jumping, which opens them up to this combo with a safe-jump ender:
+
+<combo>2H > H Flip low, 2U > H Lumiel, U Ball, cH > L DP</combo>
+
+<video src="/assets/videos/anti-air-corner-safe-jump.mp4" controls="controls"></video>
+
+If you have 100 meter, you can route into super for more damage:
+
+<combo>2H > H Flip low, 2U > H Lumiel, H Ball, cMM > SBA</combo>
+
+<video src="/assets/videos/anti-air-corner-SBA.mp4" controls="controls"></video>
+
+
