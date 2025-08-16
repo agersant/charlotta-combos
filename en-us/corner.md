@@ -34,19 +34,15 @@ Against crouching opponents, the <combo>H Lumiel, fM</combo> link can be replace
 {% include bubble.html content="c<img class='icon' medium><img class='icon' medium><img class='icon' medium> also works and requires less precise timing." %}
 
 
-## SBA enders
+## SBA ender
 
-To end the combo by spending and refunding a BP:
+End the combo by spending and refunding a BP:
 
-<combo>cMMM > H Lumiel, fM > H Ball, cMMM > RS, 2U > SBA</combo>
+<combo>cMMM > H Lumiel, fM > H Ball, cMMM > RS, [delay] cH > SBA</combo>
 
 <video src="/assets/videos/corner-SBA.mp4" controls="controls"></video>
 
-If you notice early enough that SBA will be available, you can get slightly more damage (+170) with a Ball-first route:
-
-<combo>cMMM > H Ball, cM > H Lumiel > cH > RS, cHH > SBA</combo>
-
-<video src="/assets/videos/corner-SBA-better.mp4" controls="controls"></video>
+Hold <img class='icon' block> to auto-time the delay. If that is too difficult, replace <combo>cH</combo> with <combo>2U</combo>. It does slightly less damage but has more lenient timing.
 
 ## Flip grab starter
 
