@@ -4,6 +4,12 @@ lang: en-us
 
 # Common oki situations
 
+## After counter-hit Brave Counter
+
+Manually timed dash into super-jump <combo>jM</combo> can cross up or be a safe-jump depending on timing. 
+
+<video src="/assets/videos/oki-BC-super-jump.mp4" controls="controls"></video>
+
 ## After parry
 
 Triggering the <combo>5U</combo> cinematic gives an auto-timed safe jump.
