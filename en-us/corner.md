@@ -54,11 +54,13 @@ End with a safe dive:
 
 End with SBA:
 
-<combo>L Flip grab, cM > H Lumiel, 2U > H Ball, cH > SBA</combo>
+<combo>L Flip grab, cM > H Lumiel, 2U > H Ball, [delay] cHH > SBA</combo>
 
 <video src="/assets/videos/corner-grab-starter-SBA.mp4" controls="controls"></video>
 
 {% include bubble.html content="Starter can be any flip grab, not just <img class='icon' light>!" %}
+
+Hold <img class='icon' block> to auto-time the delay before <combo>cH</combo>.
 
 ## <img class="icon" heavy> Flip low starter
 
